@@ -15,6 +15,6 @@ namespace BuilderPattern
         CarBuilder Paint(string color);
 
         public Car Build();
-      
+
     }
 }
